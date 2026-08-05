@@ -201,3 +201,21 @@ Taux d’attrition =
 Nombre de clients ayant quitté la banque
 ------------------------------------------------ × 100
 Nombre total de clients
+```
+## Dashboard Power BI
+
+### Vue générale
+
+![Vue générale](powerbi/captures/vuegenerale.jpg)
+
+### Facteurs d’attrition
+
+![Facteurs d’attrition](powerbi/captures/facteursattrition.jpg)
+
+### Clients à risque
+
+![Clients à risque](powerbi/captures/clientsrisque.jpg)
+
+### Recommandations
+
+![Recommandations](powerbi/captures/recommandations.jpg) 
